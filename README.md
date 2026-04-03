@@ -1,17 +1,18 @@
-Hi, I'm **Akhil Thadaka**, a dedicated and passionate **Web Developer** with 1 year of professional experience in building modern, responsive, and scalable web applications. I enjoy developing real-world solutions and continuously improving my skills in both frontend and backend technologies.<br><br>---<br><br>
+Hi, I'm **Akhil Thadaka**, a dedicated and passionate **Web Developer** with 1 year of professional experience in building modern, responsive, and scalable web applications. I enjoy developing real-world solutions and continuously improving my skills in both frontend and backend technologies.<br><br>
 
 
-## 💼 Experience<br><br>* 💻 **Web Developer**<br>  **Kakatiya Solutions** *(1 Year Experience)*<br><br>  * Developed responsive web applications for clients<br>  * Built dynamic UI using modern frontend technologies<br>  * Worked on backend integration and database management<br>  * Improved performance and user experience of web projects<br><br>---<br><br>
+## 💼 Experience<br><br>* 💻 **Web Developer**<br>  **Kakatiya Solutions** *(1 Year Experience)*<br><br>  * Developed responsive web applications for clients<br>  * Built dynamic UI using modern frontend technologies<br>  * Worked on backend integration and database management<br>  * Improved performance and user experience of web projects<br><br>
 
-## 🎓 Training<br><br>* 🎓 **Java Full Stack Developer Training** *(2023 – 2024)*<br>  **Stayma Technologies, Ameerpet, Hyderabad**<br><br>  * Learned complete full stack development<br>  * Hands-on experience with frontend + backend technologies<br>  * Built real-time projects during training<br><br>---<br><br>## 🛠️ Technical Skills<br><br>
+## 🎓 Training<br><br>* 🎓 **Java Full Stack Developer Training** *(2023 – 2024)*<br>  **Stayma Technologies, Ameerpet, Hyderabad**<br><br>  * Learned complete full stack development<br>  * Hands-on experience with frontend + backend technologies<br>  * Built real-time projects during training<br><br>
+### 🛠️ Technical Skills<br><br>
 
 ### 🌐 Frontend<br><br>* HTML, CSS, JavaScript<br>* jQuery, Bootstrap<br>* React.js, Vue.js<br>* Basic knowledge of Angular<br><br>### ⚙️ Backend<br><br>* Java, Spring, Spring Boot<br>* PHP, CodeIgniter 4<br>* Basic knowledge of Node.js<br><br>
 
 ### 🗄️ Databases<br><br>* MySQL<br>* MongoDB<br><br>
 
-### ☁️ Tools & Platforms<br><br>* Git & GitHub<br>* Vercel<br><br>---<br><br>
+### ☁️ Tools & Platforms<br><br>* Git & GitHub<br>* Vercel<br><br>
 
-## 🚀 Projects & Capabilities<br><br>* eCommerce Web Applications<br>* Admin Panels with Database Integration<br>* QR Code Generators & Payment Systems<br>* Fully Responsive Websites<br>* REST API Integration<br><br>---<br><br>
+## 🚀 Projects & Capabilities<br><br>* eCommerce Web Applications<br>* Admin Panels with Database Integration<br>* QR Code Generators & Payment Systems<br>* Fully Responsive Websites<br>* REST API Integration<br><br>
 ## 🎯 Career Goal<br><br>To grow as a **Full Stack Developer** and work on scalable, high-performance applications while continuously learning new technologies.<br><br><br>## 📫 Let's Connect<br><br>* 🤝 Open to job opportunities and freelance work<br>* 💡 Interested in collaboration and real-world projects<br><br><br>
 
 # 💻 Tech Stack:
