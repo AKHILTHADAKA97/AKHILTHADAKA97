@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Akhil Thadaka
+# 👋 Hi, I'm Akhil Thadaka
 
 💻 Web Developer | Full Stack Enthusiast
 🚀 Passionate about building scalable, modern, and user-friendly web applications
