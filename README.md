@@ -63,7 +63,26 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
+## 🌐 Hosting & Control Panels  
 
+### 🖥️ Hosting Platforms  
+![Hostinger](https://img.shields.io/badge/Hostinger-%236733FF.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### ⚙️ Control Panels  
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+![hPanel](https://img.shields.io/badge/hPanel-%236733FF.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Plesk](https://img.shields.io/badge/plesk-%23000000.svg?style=for-the-badge&logo=plesk&logoColor=white)
+
+---
+
+### ☁️ Other Hosting Tools  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-%23000000.svg?style=for-the-badge&logo=files&logoColor=white) 
 ## 📌 Notes  
 - 🟢 MongoDB & Oracle — *Basic Knowledge*  
-- 🟢 Python — *Basic Knowledge*  
+- 🟢 Python & Node.js — *Basic Knowledge*  
