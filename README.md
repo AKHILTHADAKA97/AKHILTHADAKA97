@@ -65,12 +65,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-### ☁️ Other Hosting Tools  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-%23000000.svg?style=for-the-badge&logo=files&logoColor=white) 
 ## 📌 Notes  
 - 🟢 MongoDB & Oracle — *Basic Knowledge*  
 - 🟢 Python & Node.js — *Basic Knowledge*  
