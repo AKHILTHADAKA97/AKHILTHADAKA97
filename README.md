@@ -9,7 +9,7 @@
 
 ## 🎓 Training
 
-🎓 Java Full Stack Developer (2023 – 2024) - 🏫 Stayma Technologies, Ameerpet, Hyderabad
+🎓 Java Full Stack Developer (2023 – 2024) - 🏫 Stayma Technologies, Ameerpet, Hyderabad  (https://drive.google.com/drive/folders/11-RILH0MlGjjPbrE-m72443KDovASKq2?usp=drive_link )
 
 ## 🛠️ Tech Stack  
 
