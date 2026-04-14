@@ -2,7 +2,7 @@
 
 ## 🧑‍💼 About Me
 
-💻 Web Developer — Kakatiya Solutions :- 📅 1 Year Experience
+💻 Web Developer — Kakatiya IT Solutions Warangal :- 📅 1 Year Experience
 
 🚀 Dedicated Web Developer with 1 year of professional experience. Passionate about building scalable, modern, and user-friendly web applications
 💡 Continuously learning and improving frontend & backend skills
