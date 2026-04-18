@@ -66,6 +66,8 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-%236733FF.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![SPanel](https://img.shields.io/badge/SPanel-0F172A?style=for-the-badge&logo=serverfault&logoColor=white)
 
 ---
 
