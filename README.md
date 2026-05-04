@@ -11,8 +11,6 @@
 
 🎓 Java Full Stack Developer (2023 – 2024) - 🏫 Sathya Technologies, Ameerpet, Hyderabad  (https://drive.google.com/drive/folders/11-RILH0MlGjjPbrE-m72443KDovASKq2?usp=drive_link )
 
-## Project link : (e-commerce) => https://grocery-ecommerce-website-with-reac-one.vercel.app/
-
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
@@ -75,4 +73,7 @@
 
 ## 📌 Notes  
 - 🟢 MongoDB & Oracle — *Basic Knowledge*  
-- 🟢 Python & Node.js — *Basic Knowledge*  
+- 🟢 Python & Node.js — *Basic Knowledge*
+
+## Project link : (e-commerce) => https://grocery-ecommerce-website-with-reac-one.vercel.app/
+
