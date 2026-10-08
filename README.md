@@ -2,11 +2,11 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Web Developer | AI/ML Engineer | AI Application Developer**
+💻 **AI Engineer | AI/ML Engineer | Machine Learning Engineer | Generative AI Engineer | AI Full Stack Developer**
 
 🚀 Web Developer with **1 year of professional experience at Kakatiya IT Solutions, Warangal**, building and maintaining modern websites and web applications.
 
-🤖 Completed an **ML Internship at KrtrimaIQ**, where I worked with AI/ML application development concepts, Python, FastAPI, React.js, Tailwind CSS, MongoDB and AI-powered development workflows.
+🤖 Completed an **ML Internship at KrtrimaIQ**, where I worked with AI/ML application development concepts, Python, FastAPI, RAG, LLM, NLP,ML,DL, React.js, Tailwind CSS, MongoDB and AI-powered development workflows.
 
 🧠 Currently focused on building my career in **AI Engineering / ML Engineering / AI Application Development**, with a strong interest in LLMs, RAG, AI Agents and production-ready AI applications.
 
