@@ -65,12 +65,37 @@ Worked on developing and maintaining websites and web applications for different
 
 # 🎓 Education & Training
 
-### 🎓 B.Tech — Electrical & Electronics Engineering
-**Warangal Institute of Technology and Science**
+## 🎓 AI / ML Training
+### 🤖 FLM — AI Mastery Program
 
-📅 2019 – 2023
+📅 **2026**
 
-### 🎓 Java Full Stack Developer Training
+Completed **AI Mastery training** focused on practical Artificial Intelligence, Machine Learning and AI application development.
+
+### 🧠 Topics Covered
+
+- 🐍 Python for AI/ML
+- 📊 NumPy
+- 🐼 Pandas
+- 📈 Matplotlib & Seaborn
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔤 Natural Language Processing
+- ✨ Generative AI
+- 🧩 Large Language Models (LLMs)
+- 📝 Prompt Engineering
+- 🔎 RAG — Retrieval Augmented Generation
+- 🔢 Embeddings & Vector Search
+- 🔗 LangChain
+- 🕸️ LangGraph
+- 🤖 AI Agents
+- ⚡ FastAPI
+- 🗄️ MongoDB
+- 🔴 Redis
+- 🐳 Docker
+- 🌐 AI Application Development
+
+- ### 🎓 Java Full Stack Developer Training
 **Sathya Technologies, Ameerpet, Hyderabad**
 
 📅 2023 – 2024
@@ -90,6 +115,11 @@ Worked on developing and maintaining websites and web applications for different
 - Full Stack Development
 
 🔗 [Training Documents](https://drive.google.com/drive/folders/11-RILH0MlGjjPbrE-m72443KDovASKq2?usp=drive_link)
+
+### 🎓 B.Tech — Electrical & Electronics Engineering
+**Warangal Institute of Technology and Science**
+
+📅 2019 – 2023
 
 ---
 
