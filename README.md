@@ -281,19 +281,7 @@ Worked on developing and maintaining websites and web applications for different
 
 ---
 
-# 🎨 Design & CMS
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-- Figma
-- Adobe Photoshop
-- WordPress
-- UI Design
-- Responsive Web Design
-
----
 
 # 🚀 Featured Project
 
