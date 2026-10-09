@@ -26,8 +26,8 @@
 
 ## 💼 Experience
 
-### 🤖 ML Intern — KrtrimaIQ
-📅 **2026**
+### 🤖 ML Intern — KrtrimaIQ -3 months
+📅 **Jul-2026 - Sep 2026 **
 
 Worked on AI/ML application development and learned practical AI engineering workflows.
 
